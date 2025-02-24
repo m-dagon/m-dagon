@@ -1,2 +1,2 @@
-- I'm @m-dagon
-- Lets see where this goes
+@m-dagon
+This repo is a collection of my current projects.
